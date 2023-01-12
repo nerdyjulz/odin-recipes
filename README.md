@@ -1,1 +1,2 @@
 # odin-recipes
+This project is to practice basic HTML as learned during the Odin Project HTML Course. This will include a series of pages, with various html structures and hyperlinks, with Recipes as the sample subject matter. 
