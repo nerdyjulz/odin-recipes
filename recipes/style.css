@@ -1,0 +1,25 @@
+h1 {
+    font-family:'Courier New', Courier, monospace;
+    color:rgb(177, 106, 13);
+    text-align: center;
+}
+
+h3{
+    font-family: 'Times New Roman', Times, serif;
+    color:rgb(145, 50, 21);
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+ul, ol{
+    color:rgb(62, 59, 221)
+}
+
+/*
+ol{
+    color:rgb(21, 107, 18)
+}
+*/
